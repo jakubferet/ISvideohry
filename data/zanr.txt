@@ -1,0 +1,8 @@
+1;RPG
+2;Akční
+3;Střílečka
+4;Logická
+5;Skákací
+6;Strategická
+7;MMORPG
+8;Jiné

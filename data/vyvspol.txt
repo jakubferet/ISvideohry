@@ -1,0 +1,18 @@
+1;CD Projekt RED;Polsko;876
+2;Ubisoft;Francie;2345
+3;Blizzard;USA;3254
+4;Activision;USA;3124
+5;Warhorse;Česko;234
+6;Bohemia Interactive;Česko;457
+7;Piranha Bytes;Německo;564
+8;Nintendo;Japonsko;1453
+9;FromSoftware;Japonsko;1243
+10;Bethesda;USA;3212
+11;DICE;Švédsko;2534
+12;Valve;USA;293
+13;Crytek;Německo;538
+14;BioWare;Kanada;800
+15;Mojang;Švédsko;25
+16;Square Enix;Japonsko;5077
+17;Rockstar;USA;2136
+18;Sony;Japonsko;4763
